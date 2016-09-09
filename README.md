@@ -2,11 +2,11 @@
 Biblioteca em app mobile para apostilas e conteúdos sobre tecnologia
 
 ## Delta+ <h1>
-* Flávia Primo: Gerente
-* Bruno Taveres: Sub-Gerente/ Programador 
-* Wictor Alexandre: Design/ Programador
-* Nayara Jamilly: Programdora
-* Joyce Menezes: Design
+1 Flávia Primo: Gerente
+2 Bruno Taveres: Sub-Gerente/ Programador 
+3 Wictor Alexandre: Design/ Programador
+4 Nayara Jamilly: Programdora
+5 Joyce Menezes: Design
 
 ## Cronograma <h1>
 ------ | -------
