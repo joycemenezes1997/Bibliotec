@@ -9,5 +9,6 @@ Biblioteca em app mobile para apostilas e conteúdos sobre tecnologia
 5. Joyce Menezes: Design
 
 ## Cronograma <h1>
+Data| Atividade
 ------ | -------
 08/09/2016 | Entrega do wireframe 
