@@ -11,5 +11,5 @@ Biblioteca em app mobile para apostilas e conteúdos sobre tecnologia
 ## Cronograma <h1>
 Data| Atividade
 ------ | -------
-08/09/2016 | Entrega do wireframe 
-12/09/2016 | Nova reuniao, para aperfeicoar o wireframe
+08/09/2016 | Entrega do wireframe .
+14/09/2016 | Nova reuniao, para aperfeicoar o wireframe.
